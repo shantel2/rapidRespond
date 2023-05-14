@@ -1,0 +1,277 @@
+text	label
+I smell gas and I hear a hissing sound in my basement.	0
+There’s a car accident on the highway and people are injured.	2
+Someone broke into my apartment and stole my laptop.	1
+I’m having chest pain and difficulty breathing.	2
+There’s a fight outside my bar and someone has a knife.	1
+My cat is stuck on a tree and I can’t get her down.	0
+I’m allergic to bees and I just got stung.	2
+There’s a suspicious package in front of the bank.	1
+My oven is smoking and I can’t turn it off.	0
+I witnessed a hit-and-run and I have the license plate number.	1
+I’m having a heart attack and I can’t breathe!	2
+There’s a huge fire in the apartment building across the street!	0
+Someone broke into my car and stole my wallet and phone!	1
+My daughter is choking on a piece of candy and she’s turning blue!	2
+There’s a fight in the bar and someone has a knife!	1
+I smell gas in my kitchen and I think there’s a leak!	0
+My husband fell down the stairs and he’s not moving!	2
+There’s a robbery in progress at the bank and I’m hiding in the bathroom!	1
+My neighbor’s dog bit me and it won’t let go!	2
+There’s a tree that fell on the power lines and it’s sparking!	0
+I cut my finger while cooking and it won’t stop bleeding!	2
+There’s a cat stuck in the tree and it’s meowing loudly!	0
+Someone stole my bike from the park and I saw them riding away!	1
+I have a severe allergic reaction to something I ate and I need an EpiPen!	2
+There’s a loud party next door and they’re playing music all night!	1
+I left a candle burning in my bedroom and I see smoke coming out!	0
+My son has a fever and a rash and he’s very lethargic!	2
+There’s a suspicious person lurking around the school and he’s wearing a mask!	1
+I stepped on a nail and it went through my foot!	2
+There’s a power outage in my neighborhood and I don’t know what to do!	0
+I slipped on the ice and I think I broke my arm!	2
+There’s a car accident on the highway and there are injuries!	0
+Someone is following me and I’m scared!	1
+I have a severe headache and blurred vision and I can’t drive!	2
+There’s a bear in my backyard and it’s trying to get into my house!	1
+I smell smoke in the hallway and I hear the fire alarm!	0
+My grandmother is unconscious and she’s not breathing!	2
+There’s a shooting at the mall and I’m hiding in a store!	1
+I have a deep wound in my leg and it’s infected!	2
+There’s a flood in my basement and the water is rising!	0
+I'm having chest pain and difficulty breathing.	2
+There's been a car accident on the highway and people are injured.	2
+There's a fire in the building, and I can't find a way out.	0
+Someone is breaking into my house right now.	1
+I'm having a seizure and can't control my movements.	2
+There's a gas leak in my house, and I can smell it.	0
+There's a dangerous animal loose in my neighborhood.	1
+My child has stopped breathing and is turning blue.	2
+I've been in a serious accident, and I'm trapped in my car.	1
+I think I'm having a heart attack.	2
+I'm having chest pain and difficulty breathing.	2
+There's been a car accident on the highway and people are injured.	2
+There's a fire in the building, and I can't find a way out.	0
+Someone is breaking into my house right now.	1
+I'm having a seizure and can't control my movements.	2
+There's a gas leak in my house, and I can smell it.	0
+There's a dangerous animal loose in my neighborhood.	1
+My child has stopped breathing and is turning blue.	2
+I've been in a serious accident, and I'm trapped in my car.	1
+I think I'm having a heart attack.	2
+There's a fire in my kitchen, and I can't put it out.	0
+I smell gas and think there might be a gas leak in my house.	0
+There's a wildfire near my house, and I'm afraid it might reach my property.	0
+There's smoke coming out of my neighbor's house, and I'm afraid they might be in danger.	0
+My car is on fire, and I can't get out.	0
+There's a fire in the building I'm in, and I need help evacuating.	0
+There's a fire in the forest near my hiking trail, and I'm afraid I might get trapped.	0
+I accidentally started a fire in my backyard, and I can't control it.	0
+There's a fire in the power lines near my house, and I'm afraid it might spread.	0
+There's a fire in the factory where I work, and I need help getting out.	0
+There's someone trying to break into my house, and I'm home alone.	1
+I witnessed a hit and run accident, and I have the license plate number.	1
+My neighbor is playing loud music at 3 am, and I can't sleep.	1
+There's a person walking around with a weapon, and I'm afraid they might hurt someone.	1
+I'm being followed by a suspicious person, and I don't feel safe.	1
+I saw someone breaking into my neighbor's car, and I have a description of the suspect.	1
+My car has been stolen, and I need to report it to the police.	1
+There's a drunk driver on the road, and they're swerving all over the place.	1
+I'm being threatened by someone, and I'm afraid they might hurt me.	1
+I heard gunshots in my neighborhood, and I think someone might have been shot.	1
+I'm having a heart attack, and I need an ambulance.	2
+My child is choking and can't breathe.	2
+I fell down the stairs and broke my leg.	2
+I have a severe allergic reaction, and I can't breathe.	2
+I'm having a seizure, and I can't control my body.	2
+My partner has fainted, and I can't wake them up.	2
+I have a deep cut, and it won't stop bleeding.	2
+I'm having a severe migraine, and I can't stand the pain.	2
+My baby is unresponsive, and I don't know what's wrong.	2
+I'm experiencing shortness of breath and chest pain, and I think I might have COVID-19.	2
+
+Victim: There’s a fire in my house! Operator: Okay, stay calm. What’s your address? Victim: [gives address] Operator: Help is on the way. Can you tell me if everyone is out of the house? Victim: Yes, everyone is out, but my cat is still inside. Operator: Understood, we’ll do our best to rescue your pet. Stay outside and wait for the firefighters.	0
+
+Victim: There’s a fire in my apartment building Operator: Are you inside your apartment? Victim: Yes, but I can’t get out because of the smoke. Operator: Okay, stay near a window and cover your mouth with a wet cloth. The firefighters are on their way. Can you tell me which floor you’re on? Victim: 3rd floor, apartment 305. Operator: Got it. Stay on the line with me until help arrives.	0
+
+Victim: My car is on fire! Operator: Are you inside the car? Victim: No, I’m standing next to it. Operator: Okay, stay back and don’t approach the vehicle. We’ll send the fire department to put out the fire. Can you tell me your location? Victim: I’m on the highway, near exit 23. Operator: Understood. Stay on the line with me until the firefighters arrive.	0
+
+Victim: There’s a fire in my restaurant! Operator: Is everyone out of the building? Victim: Yes, everyone is safe, but the fire is getting bigger. Operator: Okay, stay outside and wait for the firefighters. Can you tell me your address? Victim: [gives address] Operator: Thank you. Is there anything else you can tell me about the fire? Victim: No, please hurry!	0
+
+Victim: I smell gas in my house! Operator: Okay, stay calm. Are you still inside the house? Victim: Yes, but I’m getting dizzy. Operator: Get out of the house immediately and wait outside. Do not turn on any lights or use any electronics. Can you tell me your address? Victim: [gives address] Operator: Got it. We’ll send the gas company to check for a leak. Stay on the line with me until help arrives.	0
+
+ Caller: There's a fire in my kitchen! Operator: Is anyone injured? Can you get out safely? Caller: No, we're trapped! Please send help Operator: Stay calm, we're dispatching firefighters to your location. Keep the line open.	0
+
+ Caller: My neighbor's house is on fire! Operator: Is anyone inside? Are they in danger? Caller: I don't know! There's smoke coming out of the windows! Operator: We'll send firefighters right away. Stay away from the house and keep the line open.	0
+
+ Caller: Help! My baby's trapped in the bedroom! Operator: Is there a fire? Can you get out safely? Caller: There's smoke everywhere! I can't see anything! Operator: Stay on the line with me. Firefighters are on their way. Try to stay low and cover your mouth with a cloth.	0
+
+ Caller: I'm trapped on the second floor of a burning building! Operator: Can you get to a window? Firefighters are on their way. Caller: I can't! The smoke is too thick! Operator: Try to find a towel or a shirt to cover your nose and mouth. Firefighters will be there soon.	0
+
+ Caller: My car's on fire on the highway! Operator: Is anyone injured? Can you safely get out of the car? Caller: I'm out of the car, but I need help! Operator: Stay away from the car and wait for firefighters to arrive. They will handle the situation.	0
+
+911 Caller: "Help! There's a fire in my kitchen!" 911 Operator: "Is everyone out of the house?" Caller: "Yes, we're all outside. Please hurry!" 911 Operator: "We have fire trucks on the way. Stay on the line with me."	0
+
+911 Caller: "My house is on fire!" 911 Operator: "Are you in a safe place outside of the house?" Caller: "Yes, I'm across the street. But my cat is still inside!" 911 Operator: "Please stay outside. The firefighters will get your cat out. What's your address?" Caller: "123 Main Street."	0
+
+911 Caller: "There's a fire in my apartment building!" 911 Operator: "Are you able to evacuate safely?" Caller: "Yes, but my neighbor is elderly and needs help getting out." 911 Operator: "What's your neighbor's apartment number?" Caller: "Apartment 205."	0
+
+911 Caller: "There's a fire in my garage!" 911 Operator: "Are you able to get out of the garage safely?" Caller: "Yes, but my car is still in there." 911 Operator: "Don't go back into the garage. The firefighters will handle it. Please stay on the line with me."	0
+
+911 Caller: "There's a fire in the forest behind my house!" 911 Operator: "Is the fire close to your house?" Caller: "Not yet, but it's spreading quickly." 911 Operator: "Please stay on the line while I transfer you to the forest service. They will be able to help you."	0
+
+Caller: "There's a fire in my house!" Operator: "Please stay calm. What is your address?" Caller: "123 Main Street." Operator: "Help is on the way. Can you safely exit the house?" Caller: "Yes, I'm outside now."	0
+
+Caller: "My apartment building is on fire!" Operator: "Is everyone out of the building?" Caller: "I don't know. I can't see anything!" Operator: "Stay where you are. Firefighters are on their way." Caller: "Okay, please hurry."	0
+
+Caller: "I smell smoke in my house." Operator: "Do you see any flames?" Caller: "No, not yet." Operator: "Please evacuate your home immediately and wait for the fire department." Caller: "Okay, I'm leaving now."	0
+
+Caller: "There's a fire in my car!" Operator: "Can you safely pull over and get out of the car?" Caller: "Yes, I'm pulling over now." Operator: "Please get a safe distance away from the car and wait for the fire department." Caller: "Okay, I'm out of the car."	0
+
+Caller: "My neighbor's house is on fire!" Operator: "Is anyone inside the house?" Caller: "I don't know." Operator: "Please evacuate your own home and wait for the fire department." Caller: "Okay, I'm leaving now. Please hurry!"	0
+
+Caller: "I'm witnessing a shooting! Shots fired in the parking lot." Operator: "Are you safe? Can you describe the shooter?" Caller: "Yes, I'm safe. The shooter is wearing a black hoodie and running towards the east side of the building." Operator: "Okay, officers are on their way. Stay on the line with me until they arrive."	1
+
+Caller: "There's a shooting at the mall! People are screaming and running." Operator: "Are you in a safe location?" Caller: "Yes, I'm hiding behind a store. I saw the shooter enter the food court." Operator: "Alright, officers are en route. Stay where you are and keep quiet until they arrive."	1
+
+Caller: "I need help! I'm at the park and there's a man shooting at people." Operator: "Can you give me your location?" Caller: "I'm near the playground. The shooter is wearing a blue jacket and carrying a rifle." Operator: "Okay, stay hidden and stay on the line. The police are on their way."	1
+
+Caller: "There's been a shooting in my neighborhood! I heard gunshots and screaming." Operator: "Are you safe?" Caller: "Yes, I'm inside my house. I saw a car speed away from the scene." Operator: "Okay, officers are on their way. Stay inside and keep your doors locked until they arrive."	1
+
+Caller: "I'm at the gas station and someone just started shooting at me!" Operator: "Are you hurt?" Caller: "No, I'm okay. The shooter is in a green car and drove off towards the highway." Operator: "Alright, stay put and take cover if possible. We'll send officers to your location immediately."	1
+
+Caller: "There's a shooting at the grocery store! I saw the gunman in aisle 5." Operator: "Are you in a safe location? Can you describe the shooter?" Caller: "Yes, I'm hiding behind a shelf. The shooter is a man with a black hat and a backpack." Operator: "Okay, officers are on their way. Stay where you are and keep quiet until they arrive."	1
+
+Caller: "I'm witnessing a shooting at the bank! The gunman is still inside." Operator: "Are you safe? Can you give me your location?" Caller: "Yes, I'm hiding behind a parked car. The bank is on Main Street." Operator: "Alright, stay put and stay on the line with me. The police are on their way."	1
+
+Caller: "I'm at the concert and someone just started shooting!" Operator: "Are you safe? Can you describe the shooter?" Caller: "No, I'm not safe! The shooter is in the crowd, and people are running everywhere." Operator: "Okay, stay low and stay on the line. The police are on their way."	1
+
+Caller: "There's been a shooting in my neighborhood! I heard gunshots and saw a car speed away." Operator: "Can you give me your location?" Caller: "I'm at the corner of Oak and Maple. I think the shooter is gone now." Operator: "Alright, stay where you are and keep your doors locked until officers arrive."	1
+
+Caller: "I need help! Someone just started shooting at the bus stop!" Operator: "Are you safe? Can you describe the shooter?" Caller: "I'm hiding behind a bench. The shooter is a man in a red hoodie and carrying a gun." Operator: "Okay, stay where you are and stay on the line with me. The police are on their way."	1
+
+Caller: "Hello, there's someone trying to break into my house!" 911 Operator: "Stay on the line, we'll send a police unit to your location immediately."	1
+
+Caller: "Please, I need the police, my car was just stolen!" 911 Operator: "Can you describe the vehicle and give us your location?" Caller: "It's a blue Toyota Corolla, license plate number ABC-123, and I'm on Main Street."	1
+
+Caller: "Help! My neighbor is being attacked by their partner!" 911 Operator: "Stay on the line, we'll send a police unit to your neighbor's address. Can you provide us with any additional information or description?"	1
+
+Caller: "There's a large fight happening outside my apartment complex!" 911 Operator: "Stay inside and lock your doors. We'll send a police unit to your location immediately. Can you give us a description of those involved?"	1
+
+Caller: "I'm at the park and I saw someone with a gun!" 911 Operator: "Stay calm and find a safe place to hide. We'll send a police unit to the park right away. Can you give us a description of the person with the gun?"	1
+
+Caller: "Please help, I just witnessed a hit-and-run accident!" 911 Operator: "Can you provide us with the license plate number of the vehicle that hit the other car? And where are you located?"	1
+
+Caller: "There's a man in my backyard, and he's not supposed to be there!" 911 Operator: "Stay inside and lock all the doors and windows. We will send a police unit to your location immediately. Can you provide us with a description of the man?"	1
+
+Caller: "My neighbor's dog is attacking me and won't let go!" 911 Operator: "Stay calm and try to get away from the dog if possible. We will send an animal control unit to your location as well as the police. Can you give us your address and any additional information on the dog?"	1
+
+Caller: "I think I just saw someone break into my neighbor's house!" 911 Operator: "Stay on the line, we will send a police unit to your neighbor's address. Can you provide us with a description of the person you saw and any additional information?"	1
+
+Caller: "There's a car accident on the highway, and I think someone is hurt!" 911 Operator: "We will dispatch an ambulance and police unit to the location immediately. Can you tell me how many vehicles were involved and your exact location on the highway?"	1
+
+Caller: "I just witnessed a hit and run accident!" 911 Operator: "Can you describe the vehicles and their direction of travel?" Caller: "Yes, a black SUV hit a red sedan and then fled eastbound on Oak Street."	1
+
+Caller: "I think I hear gunshots coming from the house next door!" 911 Operator: "Stay on the line, we'll send a police unit to your location. Can you tell us if you saw anyone or any vehicles near the house?"	1
+
+Caller: "There's a man trying to break into my car right now!" 911 Operator: "Stay inside and lock your doors. We'll send a police unit to your location immediately. Can you provide a description of the man?"	1
+
+Caller: "My ex-partner is threatening me over the phone!" 911 Operator: "Stay on the line, we'll send a police unit to your location. Can you provide us with your address and any other information you have about the threats?"	1
+
+Caller: "I just saw a group of teenagers vandalizing the playground at the park!" 911 Operator: "Stay on the line, we'll send a police unit to the park. Can you describe the teenagers and their actions?"	1
+
+Caller: "Please send the police! I just witnessed a hit and run!" 911 Operator: "Can you describe the vehicle and the direction it was heading in?" Caller: "It was a black SUV, heading east on Main Street."	1
+
+Caller: "There's a suspicious person outside my house!" 911 Operator: "Stay inside and lock your doors. We'll send a police unit to your location immediately. Can you give us a description of the person?"	1
+
+Caller: "There's a fire at my neighbor's house!" 911 Operator: "Stay on the line and answer my questions. Is anyone inside the house?" Caller: "I don't think so, but there's a lot of smoke coming out of the windows!"	0
+
+Caller: "There's a car accident on the highway!" 911 Operator: "What's the location of the accident and are there any injuries?" Caller: "It's on the I-95, near exit 20. I can't see if anyone's hurt."	1
+
+Caller: "Please, I need the police! My ex-partner is trying to break into my house!" 911 Operator: "Stay on the line, we'll send a police unit to your location immediately. Can you describe your ex-partner and give us your address?"	1
+
+Caller: "Help! There's been a car accident and someone is hurt!" 911 Operator: "What's your location? Stay calm and let me know the severity of the injuries."	1
+
+Caller: "I need the police! My ex is here and won't leave!" 911 Operator: "Are you in a safe location? Stay on the line and let me know if the person is armed."	1
+
+Caller: "There's a man walking down the street with a knife!" 911 Operator: "Stay calm and give me your location. We'll send a police unit immediately."	1
+
+Caller: "Please help! I think I'm being followed!" 911 Operator: "Are you in a vehicle or on foot? Stay on the line and tell me your location."	1
+
+Caller: "There's a loud party next door and it won't stop!" 911 Operator: "We'll send a unit to check the area. Can you tell me the address of the location and if you see any suspicious activity?"	1
+
+Caller: "I need an ambulance! My friend is unconscious and not breathing!" 911 Operator: "Stay on the line and follow my instructions for CPR. We'll send an ambulance to your location immediately."	2
+
+Caller: "My daughter is having an asthma attack and can't breathe!" 911 Operator: "What's your location? Stay calm and let me know if she has her inhaler nearby."	2
+
+Caller: "I need medical help! My husband just had a seizure!" 911 Operator: "What's your location? Stay on the line and tell me if he has a history of seizures."	2
+
+Caller: "My mother fell down the stairs and is bleeding!" 911 Operator: "Stay calm and let me know your location. We'll send an ambulance to your location immediately."	2
+
+Caller: "I accidentally cut myself and can't stop the bleeding!" 911 Operator: "Apply pressure to the wound and stay on the line. We'll send an ambulance to your location immediately."	2
+
+Caller: "Please send an ambulance, my husband is having a heart attack!" 911 Operator: "Stay calm and tell me your location. Are there any other symptoms or complications?"	2
+
+Caller: "Help! My baby isn't breathing!" 911 Operator: "Stay on the line and try to resuscitate the baby. We'll send an ambulance to your location immediately."	2
+
+Caller: "I fell down the stairs and I think I broke my leg!" 911 Operator: "Stay calm and don't move. We'll send an ambulance to your location. Can you tell me your location and if there's anyone else around?"	2
+
+Caller: "Please help! My friend just overdosed!" 911 Operator: "Stay on the line and tell me your location. Can you give me more information on what drug was taken?"	2
+
+Caller: "My mother is having trouble breathing and she can't speak!" 911 Operator: "Stay calm and tell me your location. We'll send an ambulance to your location immediately. Can you describe any other symptoms or conditions?"	2
+
+Caller: "I need an ambulance! My husband is having a heart attack!" 911 Operator: "Stay calm and tell me your location. We'll dispatch an ambulance to your location immediately."	2
+
+Caller: "My daughter has fallen and hit her head, she's unconscious!" 911 Operator: "Stay on the line and tell me your location. Is she breathing normally?"	2
+
+Caller: "Please send an ambulance! My friend is having a seizure!" 911 Operator: "Stay calm and tell me your location. Is the person still seizing?"	2
+
+Caller: "I need an ambulance! My baby isn't breathing!" 911 Operator: "Stay calm and tell me your location. Begin administering CPR if you know how."	2
+
+Caller: "My mother is choking and can't breathe!" 911 Operator: "Stay on the line and tell me your location. Begin performing the Heimlich maneuver if you know how, and we'll send an ambulance right away."	2
+
+Caller: "Help! My husband is having a heart attack!" 911 Operator: "Stay calm, we're dispatching an ambulance to your location. Can you tell me the address and the condition of the patient?"	2
+
+Caller: "My daughter just fell down the stairs and she can't move her leg!" 911 Operator: "We're sending an ambulance to your location. Can you tell me your location and the age of your daughter?"	2
+
+Caller: "Please help! My friend is having a seizure!" 911 Operator: "Stay calm and tell me the address of your location. We're dispatching an ambulance immediately."	2
+
+Caller: "I accidentally overdosed on medication and I need help!" 911 Operator: "Stay on the line, we're sending an ambulance to your location. Can you tell me the name of the medication and your current symptoms?"	2
+
+Caller: "I'm having difficulty breathing and I think I'm having an asthma attack!" 911 Operator: "Stay calm, we're sending an ambulance to your location. Can you tell me the address of your location and your current symptoms?"	2
+
+Caller: "Help! My husband collapsed and he's not responding!" 911 Operator: "Stay calm, we're dispatching an ambulance to your location. Can you tell me the address and the condition of the patient?" Caller: "He's not breathing and his face is turning blue." 911 Operator: "Follow my instructions for CPR until the ambulance arrives."	2
+
+Caller: "My baby is choking and I don't know what to do!" 911 Operator: "Stay calm, we're dispatching an ambulance to your location. Can you tell me your address and the age of your baby?" Caller: "She's 9 months old and not breathing." 911 Operator: "Lay the baby on her back and tilt her head to open the airway. Follow my instructions for CPR until the ambulance arrives."	2
+
+Caller: "Please help! I fell down and I think I broke my leg!" 911 Operator: "Stay on the line, we're sending an ambulance to your location. Can you tell me the address of your location and the severity of your pain?" Caller: "It's very painful, and I can't move my leg." 911 Operator: "Stay still and keep the injured leg elevated until the ambulance arrives."	2
+
+Caller: "I have a severe allergic reaction and I need an ambulance!" 911 Operator: "Stay calm, we're sending an ambulance to your location. Can you tell me the address of your location and your current symptoms?" Caller: "My throat is closing up, and I'm having difficulty breathing." 911 Operator: "Try to remain calm and follow any instructions given to you by the ambulance personnel."	2
+
+Caller: "I'm experiencing chest pain and I think I'm having a heart attack!" 911 Operator: "Stay calm, we're dispatching an ambulance to your location. Can you tell me the address of your location and your current symptoms?" Caller: "The pain is radiating down my left arm and I feel lightheaded." 911 Operator: "Stay calm and try to relax while waiting for the ambulance to arrive. Do not take any medication unless directed by the ambulance personnel."	2
+
+Caller: "There's a fire in my house, and I can't put it out!" 911 Operator: "Stay calm, we're dispatching firefighters to your location. Can you tell me the address of your location and the size of the fire?" Caller: "It's a small fire in the kitchen, but it's spreading quickly!" 911 Operator: "Evacuate the house immediately and wait for the firefighters to arrive."	0
+
+Caller: "Help! My cat is stuck in a tree and can't get down!" 911 Operator: "Stay calm, we're dispatching firefighters to your location. Can you tell me the address of your location and the height of the tree?" Caller: "The tree is about 20 feet tall, and my cat is at the top." 911 Operator: "Do not attempt to rescue the cat yourself, wait for the firefighters to arrive."	0
+
+Caller: "There's a gas leak in my house, and I can smell it!" 911 Operator: "Stay calm, we're dispatching firefighters to your location. Can you tell me the address of your location and the severity of the gas smell?" Caller: "The smell is very strong, and I think it's coming from the stove." 911 Operator: "Evacuate the house immediately and wait for the firefighters to arrive."	0
+
+Caller: "There's a car on fire on the side of the road!" 911 Operator: "Stay calm, we're dispatching firefighters to your location. Can you tell me the location of the car and the size of the fire?" Caller: "The car is on the side of the highway, and the fire is spreading quickly." 911 Operator: "Stay away from the car and wait for the firefighters to arrive."	0
+
+Caller: "There's a flood in my basement, and it's getting worse!" 911 Operator: "Stay calm, we're dispatching firefighters to your location. Can you tell me the address of your location and the severity of the flood?" Caller: "The water is rising quickly, and I'm afraid it's going to damage my house." 911 Operator: "Evacuate the house immediately and wait for the firefighters to arrive."	0
+
+Caller: "There's a wildfire near my home and I'm afraid it's going to reach my property!" 911 Operator: "Stay calm, we're dispatching firefighters to your location. Can you tell me the address of your location and the size of the fire?" Caller: "The fire is getting closer and I can see smoke from my property." 911 Operator: "Evacuate your home immediately and follow any instructions given to you by the firefighters."	0
+
+Caller: "There's a building on fire in my neighborhood and I can see flames!" 911 Operator: "Stay calm, we're dispatching firefighters to the location. Can you tell me the address of the location and the size of the fire?" Caller: "The fire is coming out of the windows and it's getting bigger." 911 Operator: "Stay away from the area and wait for the firefighters to arrive."	0
+
+Caller: "I accidentally spilled gasoline on the floor and it caught on fire!" 911 Operator: "Stay calm, we're dispatching firefighters to your location. Can you tell me the address of your location and the size of the fire?" Caller: "The fire is spreading quickly, and I can't put it out." 911 Operator: "Evacuate the area immediately and wait for the firefighters to arrive."	0
+
+Caller: "There's a trapped animal in my chimney and I can hear it screaming!" 911 Operator: "Stay calm, we're dispatching firefighters to your location. Can you tell me the address of your location and the type of animal?" Caller: "I think it's a bird or a small mammal, but I can't see it." 911 Operator: "Do not attempt to rescue the animal yourself, wait for the firefighters to arrive."	0
+
+Caller: "I'm trapped on the roof of my house and I can't get down!" 911 Operator: "Stay calm, we're dispatching firefighters to your location. Can you tell me the address of your location and the reason why you're trapped?" Caller: "I climbed up to fix my roof, and the ladder fell down." 911 Operator: "Stay put and wait for the firefighters to arrive."	0
+
+Caller: "There's a fallen tree blocking the road in my neighborhood!" 911 Operator: "Stay calm, we're dispatching firefighters to your location. Can you tell me the address of the location and the size of the tree?" Caller: "The tree is blocking the entire road, and it's too big for me to move." 911 Operator: "Stay away from the area and wait for the firefighters to arrive."	0
+
+Caller: "There's a strong gas smell coming from my neighbor's house!" 911 Operator: "Stay calm, we're dispatching firefighters to the location. Can you tell me the address of the location and the severity of the gas smell?" Caller: "The smell is very strong, and I think it's coming from the neighbor's gas line." 911 Operator: "Evacuate your house immediately and wait for the firefighters to arrive."	0
+
+Caller: "There's a hazardous material spill in the parking lot of my workplace!" 911 Operator: "Stay calm, we're dispatching firefighters to the location. Can you tell me the address of the location and the type of hazardous material?" Caller: "I'm not sure what the material is, but it's leaking from a truck and it's spreading." 911 Operator: "Stay away from the area and wait for the firefighters to arrive."	0
